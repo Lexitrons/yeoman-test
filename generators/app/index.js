@@ -5,11 +5,6 @@ var chalk = require('chalk');
 
 module.exports = yeoman.Base.extend({
   prompting: function () {
-    // Have Yeoman greet the user.
-    // this.log(yosay(
-    //   'Welcome to the incredible ' + chalk.red('generator-fetoolkit') + ' generator!'
-    // ));
-
     var prompts = [{
         type: 'input',
         name: 'title',
@@ -27,7 +22,6 @@ module.exports = yeoman.Base.extend({
     return this.prompt(prompts).then(function (props) {
       // To access props later use this.props.someAnswer;
         this.props = props;
-        console.log( props )
         this.log('app name', props.title);
         this.log('cool feature', props.number);
 
@@ -35,14 +29,10 @@ module.exports = yeoman.Base.extend({
   },
 
   writing: function () {
-    console.log( this.props );
     this.fs.copyTpl(
-      this.templatePath('index.html'),
-      this.destinationPath('index.html'),
-       { 
-        title: this.props.title, 
-        number: this.props.number 
-        }
+    this.templatePath('index.html'),
+    this.destinationPath('index.html'),
+    this.props
     );
   },
 

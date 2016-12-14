@@ -1,0 +1,33 @@
+var Verndale = Verndale || {};
+
+jQuery(function ($) {
+
+    $.fn.<%= functionName%> = function( options ) {
+        return this.each(function() {   
+            var <%= functionName%> = Object.create(Verndale.<%= functionName%>);  
+            <%= functionName%>.init(this, options);
+        });
+    };
+
+    $.fn.<%= functionName%>.options = {
+        clear: ".clear-filters"
+    };
+
+    Verndale.<%= functionName%> = {
+        init: function( elem, options ) {
+            var self = this;
+
+            self.$container = $( elem );
+            self.options = $.extend({}, $.fn.<%= functionName%>.options, options);
+            
+           
+            self.bindElements();
+            
+        },
+        bindElements: function() {
+            var self = this;
+            
+            
+        } 
+    };
+});

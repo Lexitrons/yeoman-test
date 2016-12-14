@@ -1,0 +1,25 @@
+import React from 'react';
+ 
+// import componentNAME from 'components/<%= reactClass %>/';
+ 
+export default class <%= reactClass %> extends React.Component {
+
+    constructor(props) {
+        super( props );
+
+        this.state = {
+           
+        };
+
+ 
+    }
+
+    componentWillMount() {
+    
+    }
+
+    render() {
+
+        return  ()
+    }
+}

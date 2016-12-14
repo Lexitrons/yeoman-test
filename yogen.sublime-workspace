@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"pga",
+				"pagination__label"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"_rend",
+				"_renderUpdates"
+			],
+			[
+				"_bin",
+				"_bindFileInput"
+			],
+			[
+				"ove",
+				"tov-e\ttext-overflow: ellipsis;"
+			],
+			[
+				"e",
+				"escape"
+			],
+			[
+				"input",
+				"input-error"
+			],
+			[
+				"login",
+				"loginModalWrap"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"_check",
+				"_checkEmail"
+			],
+			[
+				"submi",
+				"submitForm"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/alex.rodrigues/Documents/YeoManGenerator/generator-fetoolkit"
+	],
+	"file_history":
+	[
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/homepage_rebuild/homepage-hero.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/blog_rebuild/blog_theme/blog-theme-slick-slide.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/callouts/media-video-callout-banner.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-article_listing.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/blog_rebuild/blog_theme/blog-theme_sidebar-subarticle.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/home/home-callouts.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/_global.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/dist/modules/homepage_rebuild/homepage-content.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/pages/Sprint7/events.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/featured-author_content.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/homepage_rebuild/homepage-banner.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_JS/plugins/jquery.validate.unobtrusive.min.js",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/homepage_rebuild/homepage-banner.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/homepage_rebuild/events-listing.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/homepage_rebuild/events-listing.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-banner.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/social-callout.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-featured_article.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/blog_rebuild/blog-detail.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/blog_rebuild/blog-article_listing.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/blog_rebuild/blog_detail/blog-detail-sidebar-listing.html",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-detail/blog-detail.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-detail/blog-detail-placeholder.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-detail/blog-comment-listing.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/pagination-callout.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/_pagination.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-detail/blog-detail-sidebar-listing.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-detail/blog-comments.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-archive/blog-archive-listing.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-author-archive-sidebar.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-featured_subarticle.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/blog_rebuild/blog-author-listing/blog-author-list.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/_CSS/modules/homepage_rebuild/homepage-blog-placeholder.scss",
+		"/Users/alex.rodrigues/Documents/Sites/Bruderhof/frontendbruderhofblogrebuild/app/modules/blog_rebuild/blog_detail/blog-detail-content.html",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_JS/plugins/init.js",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_JS/api/savedSearches.json",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_JS/plugins/savedSearches.js",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/_variables.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/_remodal.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/modals/_account-modal.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/modules/pagination.html",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/modules/account/consumer/saved-searches.html",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/account/consumer/_saved-searches.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/pages/Sprint2/consumer-saved-searches.html",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/modules/footer.html",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_JS/api/getResults.json",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_JS/library/searchForm.js",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/account/_sub-nav.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/account/consumer/_profile.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/account/consumer/_profile-edit.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/account/consumer/_preferences.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/account/consumer/_edit-email-preferences.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_CSS/modules/account/consumer/_edit-password.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/modules/account/consumer/edit-password.html",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_JS/api/passUpdate.json",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/_JS/plugins/passUpdate.js",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/modules/account/sub-nav.html",
+		"/Users/alex.rodrigues/Documents/Sites/RIlivingReact/app/pages/Sprint1/home_page.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/api/savedSearches2.json",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/_remodal-default-theme.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/modals/_forgot-modal.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/_variables.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/modals/_login-modal.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/library/jsrender.min.js",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/pages/Sprint2/con-password-preferences.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/modules/footer.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/plugins/edit-profile.js",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/account/consumer/_preferences.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/pages/Sprint2/con-email-preferences.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/pages/Sprint2/consumer-preferences.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/plugins/init.js",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/modules/account/consumer/profile-edit.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/plugins/realtorModal.js",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/account/_sub-nav.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/_reset.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/modules/header.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/_remodal.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/api/NewAccount.json",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/api/forgotPassword.json",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/pages/Sprint2/consumer-profile-edit.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/_hero.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/modules/modals/forgot-modal.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/_header.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/modules/account/consumer/profile.html",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_CSS/modules/_global.scss",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/index.html.tpl",
+		"/Users/alex.rodrigues/Documents/Sites/RiLiving/app/_JS/plugins/simpletabs.js",
+		"/Users/alex.rodrigues/Documents/Sites/IEWC/src/_css/modules/modals/_login-modal.scss",
+		"/Users/alex.rodrigues/Documents/Sites/IEWC/src/_js/containers/myAccount/OverviewContainer.jsx",
+		"/Users/alex.rodrigues/Documents/Sites/IEWC/dist/api/Account",
+		"/Users/alex.rodrigues/Documents/Sites/Sutherland/wp-config.php",
+		"/Users/alex.rodrigues/Documents/Sites/Sutherland/wp-activate.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"welcome-message__button--open",
+			"#E3E8EC",
+			"elem[i]",
+			"id=\"modal-window-2\"",
+			"modal-",
+			"figcaption",
+			".featured-author__label--text",
+			"[id*=\"modal-window\"]",
+			"view-all",
+			"Simon Mercer",
+			"<a href=\"#\" class=\"detail-placeholder\">",
+			"<img src=\"http://lorempixel.com/400/200\" alt=\"\" class=\"detail-placeholder__img rsi\">",
+			".blog-detail__header--text",
+			"http://scdev.bruderhof.com/en/voices-blog/what-did-dr-king-actually-stand-for",
+			"__link--larger",
+			"__link--continue",
+			"archive-list__link--continue",
+			":after",
+			"box-sizing: border-box;",
+			"you might ",
+			"Erna Albertz",
+			" linear-gradient(to to",
+			"inear-gradient(to top,#2e3843,transpa",
+			"EEBCFC",
+			".archive-list__link--continue:after",
+			"sidebar",
+			" .subarticle-titl",
+			" .subarticle-title__",
+			" .subarticle-title__col--2",
+			".featured-article__content>.article-link__main",
+			".article-link__theme",
+			"8px",
+			"10px",
+			"ng-headers",
+			"indent",
+			"grey",
+			" @@include(",
+			"(\"",
+			"document",
+			"this",
+			"Previous",
+			"trigger",
+			"pagination__trigger",
+			"saved-pagination",
+			"if currentPage",
+			"self.container.remove",
+			"self.container.add",
+			"delete__",
+			"rename__",
+			"Rename",
+			"rename",
+			"self.$",
+			"renam",
+			"Wrap",
+			"forgot",
+			"deletePassword",
+			"Rename",
+			"rename",
+			"Rename",
+			"rename",
+			"forgot",
+			"rename",
+			"this",
+			"notifCheck",
+			":",
+			"},",
+			"{\"",
+			",{",
+			",\"",
+			"search-results-template",
+			"getresults",
+			"error",
+			"lighten($color-red1, 30)",
+			"item",
+			"notifCheck",
+			"newPass",
+			"oldPass",
+			"newEmail",
+			"edit-email",
+			"con-info",
+			"self.$form",
+			"editProfile",
+			"con-notf",
+			"<input type",
+			"help",
+			"string",
+			"blah",
+			"( e )",
+			"(e)",
+			"prof",
+			"e.preventDefault();",
+			".click();",
+			"<button ",
+			"$('#html_btn')",
+			"dit-prof",
+			"file",
+			"realtorLogin",
+			"monts",
+			"5px",
+			"10px",
+			"optional",
+			"edit-prof",
+			"options",
+			"<input type=\"text\"",
+			"<label for=\"\" class=\"",
+			"</li>",
+			"prof-over",
+			"<a href=\"#\" ",
+			"\".error\"",
+			"forgot",
+			"type=\"password\"",
+			"type=\"email\"",
+			"<form ",
+			"&",
+			"login-form",
+			"10",
+			"hero-form",
+			"search",
+			"input",
+			"30px",
+			"close",
+			"</li>",
+			"realtorLogin",
+			"data-section",
+			"data-tab",
+			"\"active-tab\"",
+			"\"active-trigger\"",
+			"stickyMap"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$color-error-bg",
+			"'modules/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yogen.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"homepage-bann",
+				"app/modules/homepage_rebuild/homepage-banner.html"
+			],
+			[
+				"colors",
+				"app/_CSS/variables/_colors.scss"
+			],
+			[
+				"callout",
+				"app/modules/home/home-callouts.html"
+			],
+			[
+				"event-list",
+				"app/_CSS/modules/homepage_rebuild/events-listing.scss"
+			],
+			[
+				"main",
+				"app/_JS/library/Bruderhof.Main.js"
+			],
+			[
+				"head",
+				"app/modules/head.html"
+			],
+			[
+				"blog-header",
+				"app/modules/blog_rebuild/blog-header.html"
+			],
+			[
+				"globalfoundations",
+				"app/modules/nav-global-foundations.html"
+			],
+			[
+				"foundation",
+				"app/modules/foundations-header.html"
+			],
+			[
+				"header",
+				"app/_CSS/layouts/_header.scss"
+			],
+			[
+				"global",
+				"app/_CSS/modules/_global.scss"
+			],
+			[
+				"homepage",
+				"app/modules/homepage_rebuild/homepage-banner.html"
+			],
+			[
+				"footer",
+				"app/modules/blog_rebuild/blog_footer.html"
+			],
+			[
+				"",
+				"app/_JS/library/Bruderhof.Main.js"
+			],
+			[
+				"modal",
+				"app/_CSS/modules/_modals.scss"
+			],
+			[
+				"placehol",
+				"app/_CSS/modules/blog_rebuild/blog-detail/blog-detail-placeholder.scss"
+			],
+			[
+				"detail-pla",
+				"app/modules/blog_rebuild/blog_detail/blog-detail-placeholder.html"
+			],
+			[
+				"archive",
+				"app/_CSS/modules/blog_rebuild/blog-archive/blog-archive-listing.scss"
+			],
+			[
+				"pagina",
+				"app/_CSS/modules/_pagination.scss"
+			],
+			[
+				"paginat",
+				"app/_CSS/modules/_pagination.scss"
+			],
+			[
+				"pagination",
+				"app/_CSS/modules/blog_rebuild/pagination-callout.scss"
+			],
+			[
+				"placeholdscss",
+				"app/_CSS/modules/blog_rebuild/blog-detail/blog-detail-placeholder.scss"
+			],
+			[
+				"placehold",
+				"app/_CSS/modules/homepage_rebuild/homepage-blog-placeholder.scss"
+			],
+			[
+				"event",
+				"app/_CSS/modules/homepage_rebuild/events-listing.scss"
+			],
+			[
+				"homepa",
+				"app/modules/homepage_rebuild/homepage-banner.html"
+			],
+			[
+				"blog-detailscss",
+				"app/_CSS/modules/blog_rebuild/blog-detail/blog-detail.scss"
+			],
+			[
+				"blog-de",
+				"app/modules/blog_rebuild/blog_detail/blog-detail-content.html"
+			],
+			[
+				"blog-deta",
+				"app/modules/blog_rebuild/blog-detail.html"
+			],
+			[
+				"events",
+				"app/_CSS/modules/homepage_rebuild/events-listing.scss"
+			],
+			[
+				"varibl",
+				"src/_CSS/_variables.scss"
+			],
+			[
+				"pagin",
+				"app/modules/pagination.html"
+			],
+			[
+				"varia",
+				"app/_CSS/_variables.scss"
+			],
+			[
+				"init",
+				"app/_JS/plugins/init.js"
+			],
+			[
+				"searchform",
+				"app/_JS/library/searchForm.js"
+			],
+			[
+				"hero",
+				"app/_CSS/modules/_hero.scss"
+			],
+			[
+				"ini",
+				"app/_JS/plugins/init.js"
+			],
+			[
+				"reset",
+				"app/_CSS/_reset.scss"
+			],
+			[
+				"featured_art",
+				"app/modules/blog_rebuild/blog-featured_article.html"
+			],
+			[
+				"featured_article",
+				"app/_CSS/modules/blog_rebuild/blog-featured_subarticle.scss"
+			],
+			[
+				"article_list",
+				"app/_CSS/modules/blog_rebuild/blog-article_listing.scss"
+			],
+			[
+				"blog-na",
+				"app/_CSS/modules/blog_rebuild/blog-nav_utility-retry.scss"
+			],
+			[
+				"blog-hea",
+				"app/_CSS/modules/blog_rebuild/blog-header.scss"
+			],
+			[
+				"blog-detail",
+				"app/_CSS/modules/blog_rebuild/blog-detail/blog-detail.scss"
+			],
+			[
+				"comm",
+				"app/modules/blog_rebuild/blog_detail/blog-comments.html"
+			],
+			[
+				"detail-place",
+				"app/_CSS/modules/blog_rebuild/blog-detail/blog-detail-placeholder.scss"
+			],
+			[
+				"blog-head",
+				"app/modules/blog_rebuild/blog-header.html"
+			],
+			[
+				"blog-nav-u",
+				"app/_CSS/modules/blog_rebuild/blog-nav_utility-retry.scss"
+			],
+			[
+				"button",
+				"app/_CSS/modules/_buttons.scss"
+			],
+			[
+				"sub",
+				"app/_CSS/modules/blog_rebuild/sub-nav.scss"
+			],
+			[
+				"blog-detascss",
+				"app/_CSS/modules/blog_rebuild/blog-detail/blog-detail.scss"
+			],
+			[
+				"subnav",
+				"app/_CSS/modules/blog_rebuild/sub-nav.scss"
+			],
+			[
+				"sub-nav",
+				"app/modules/blog_rebuild/sub-nav.html"
+			],
+			[
+				"comments",
+				"app/_CSS/modules/blog_rebuild/blog-detail/blog-comments.scss"
+			],
+			[
+				"clearf",
+				"src/_css/placeholders/_clearfix.scss"
+			],
+			[
+				"login",
+				"src/modules/modals/login-modal.html"
+			],
+			[
+				"config",
+				"wp-config.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

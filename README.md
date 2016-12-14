@@ -1,5 +1,6 @@
-# generator-fetoolkit [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-> Testing Yeoman generators
+ 
+> Custom Yeoman Generator
+# This is a WIP and nto ready for any sort of use 
 
 ## Installation
 
